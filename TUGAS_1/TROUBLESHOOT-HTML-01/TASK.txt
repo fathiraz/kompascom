@@ -1,0 +1,10 @@
+TUGAS - Troubleshoot HTML 01
+
+[1]. Buka index.html dan file lain di folder html menggunakan browser, terlihat berantakan.
+
+[2]. Lakukan perubahan script html, css dan js yang Anda anggap perlu, sehingga tampilan index.html terlihat rapi seperti yang diperlihatkan pada image referensi-01.jpg dan referensi-02.jpg
+
+[3]. Simpan dan upload hasil pekerjaan Anda sehingga dapat diakses melalui [URL WORKSPACE ANDA]/html01/
+
+[4]. Catat perubahan script yang Anda lakukan dalam sebuah file perubahan.txt, upload ke folder yang sama, [URL WORKSPACE ANDA]/html01/
+

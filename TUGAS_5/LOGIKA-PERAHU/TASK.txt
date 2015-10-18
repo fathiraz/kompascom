@@ -1,0 +1,12 @@
+LOGIKA PERAHU
+
+Seorang petani hendak membawa seekor serigala, seekor kambing dan sebakul sayuran menyeberang sebuah sungai.
+Di tepi sungai itu hanya ada sebuah perahu, yang hanya bisa ditumpangi petani dengan 1 barang bawaan saja.
+
+Petani itu bingung, jika hendak membawa sayuran terlebih dahulu, kambingnya pasti akan dimakan serigala.
+atau jika dia membawa serigala dulu, sayurannya akan dimakan kambing.
+
+Bantulah si petani, untuk membuat urutan bawaan apa yang bisa dia angkut dengan perahu,
+sehingga semua barang bawaannya dapat diseberangkan dengan aman!
+
+Tuliskan jawaban anda dalam sebuah file LogikaPerahu.txt , kemudian uploadlah ke server, dalam sebuah folder

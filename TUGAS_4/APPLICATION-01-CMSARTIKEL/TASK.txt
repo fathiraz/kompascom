@@ -1,0 +1,14 @@
+TUGAS - CREATE APPLICATION  01
+------------------------------
+JUDUL PROYEK : Membuat Content Management System Sederhana untuk Update Artikel
+NILAI PROYEK : $ 1000
+DEADLINE     : Hari Ini
+
+DESKRIPSI :
+
+Buatlah sebuah aplikasi Content Management System Sederhana, dimana seorang user dapat LOGIN ke dalam sistem, MENULISKAN dan MENGEDIT artikel-artikel didalamnya.
+
+[1]. Buatlah table-table yang dibutuhkan untuk aplikasi tersebut dalam database ANDA di server menggunakan PHPMyAdmin
+[2]. Buatlah aplikasinya menggunakan bahasa pemrograman PHP
+[3]. Uploadlah aplikasi tersebut ke server menggunakan File Manager sehingga dapat diakses  melalui url 
+[4]. Layout html bebas, asal rapi dan User Friendly
